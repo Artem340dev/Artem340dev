@@ -1,6 +1,6 @@
 # About Me
 
-Hi there! 👋 I'm Artemy Ulyanov, a passionate developer with a love for creating innovative web applications and beautiful UI/UX designs.
+## Hi there! 👋 I'm Artemy Ulyanov, a passionate developer with a love for creating innovative web applications and beautiful UI/UX designs.
 
 ### 🧑‍💻 What I do:
 - Full-stack development (React, Node.js, Express, etc.)
@@ -34,7 +34,6 @@ Hi there! 👋 I'm Artemy Ulyanov, a passionate developer with a love for creati
 
 ### 🌍 Connect with me:
 - [GitHub](https://github.com/your-username)
-- [Portfolio](https://your-portfolio.com)
 
 ---
 
