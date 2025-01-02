@@ -1,16 +1,41 @@
-## Hi there 👋
+# About Me
 
-<!--
-**Artem340dev/Artem340dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 I'm Artemy Ulyanov, a passionate developer with a love for creating innovative web applications and beautiful UI/UX designs.
 
-Here are some ideas to get you started:
+### 🧑‍💻 What I do:
+- Full-stack development (React, Node.js, Express, etc.)
+- Containerization and orchestration with Docker and Kubernetes
+- UI/UX design (Figma, Adobe Photoshop, etc.)
+- Always learning and experimenting with new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning:
+- Advanced TypeScript
+- Cloud computing (AWS, GCP)
+- DevOps systems (Jenkins, GitLab CI, GitHub Actions)
+
+### 💬 Ask me about:
+- Frontend and backend development
+- Design systems
+- Docker, Kubernetes, and containerization
+- My open-source contributions
+
+### 📫 How to reach me:
+- Email: [artemiyulyanov.career@example.com]
+- LinkedIn: [Artemy Ulyanov](https://linkedin.com/artemiyulyanov)
+- Telegram: [@artemiyulyanov](https://t.me/artemiyulyanov)
+- VK: [@artemyulyanov](https://vk.com/artemiyulyanov)
+
+### 🛠️ Technologies & Tools:
+- **Languages**: JavaScript, TypeScript, Java, Python, HTML, CSS
+- **Frameworks**: React, Next.js, Vue.js, Angular, Express.js, Node.js
+- **Design Tools**: Figma, Adobe Photoshop
+- **DevOps Tools**: Docker, Kubernetes, Jenkins
+- **Databases**: MySQL, PostgreSQL
+
+### 🌍 Connect with me:
+- [GitHub](https://github.com/your-username)
+- [Portfolio](https://your-portfolio.com)
+
+---
+
+Feel free to check out my repositories and contribute to open-source! 😊
