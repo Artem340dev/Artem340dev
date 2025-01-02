@@ -27,7 +27,7 @@
 
 ### 🛠️ Technologies & Tools:
 - **Languages**: JavaScript, TypeScript, Java, Python, HTML, CSS
-- **Frameworks**: React, Next.js, Vue.js, Angular, Express.js, Node.js
+- **Frameworks**: React, Next.js, Vue.js, Angular, Express.js, Node.js, Spring, Django
 - **Design Tools**: Figma, Adobe Photoshop
 - **DevOps Tools**: Docker, Kubernetes, Jenkins
 - **Databases**: MySQL, PostgreSQL
