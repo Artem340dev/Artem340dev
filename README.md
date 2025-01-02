@@ -3,7 +3,7 @@
 ## Hi there! 👋 I'm Artemy Ulyanov, a passionate developer with a love for creating innovative web applications and beautiful UI/UX designs.
 
 ### 🧑‍💻 What I do:
-- Full-stack development (React, Node.js, Express, etc.)
+- Full-stack development (React, Node.js, Express.js, Spring, Django, etc.)
 - Containerization and orchestration with Docker and Kubernetes
 - UI/UX design (Figma, Adobe Photoshop, etc.)
 - Always learning and experimenting with new technologies.
