@@ -20,7 +20,7 @@
 - My open-source contributions
 
 ### 📫 How to reach me:
-- Email: [artemiyulyanov.career@example.com]
+- Email: [artemiyulyanov.career@gmail.com]
 - LinkedIn: [Artemy Ulyanov](https://linkedin.com/artemiyulyanov)
 - Telegram: [@artemiyulyanov](https://t.me/artemiyulyanov)
 - VK: [@artemyulyanov](https://vk.com/artemiyulyanov)
