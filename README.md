@@ -21,7 +21,7 @@
 
 ### 📫 How to reach me:
 - Email: artemiyulyanov.career@gmail.com
-- LinkedIn: [Artemy Ulyanov](https://linkedin.com/artemiyulyanov)
+- LinkedIn: [Artemy Ulyanov](https://www.linkedin.com/in/artemy-ulyanov-737814285)
 - Telegram: [@artemiyulyanov](https://t.me/artemiyulyanov)
 - VK: [@artemyulyanov](https://vk.com/artemiyulyanov)
 
